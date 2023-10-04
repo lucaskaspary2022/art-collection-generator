@@ -1,0 +1,17 @@
+{
+    "NFT":{
+        "name": "Earth",
+        "galaxy": "Milky Way",
+        "size": "",
+        "rarity": "",
+        "rings": "No",
+        "image": ""
+    },
+    "colors": {
+        "planet": "",
+        "land": "",
+        "stripes": "",
+        "craters": "",
+        "ring": ""
+    }
+}
